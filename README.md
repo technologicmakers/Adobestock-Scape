@@ -1,9 +1,6 @@
-# MyStockBox (sample)
+# MyStockBox - Client (React)
 
-Lightweight full-stack template for a stock-photo marketplace:
-- backend: Node + Express + SQLite
-- frontend: React (example components)
+Basic React frontend (examples). To run a real app you can scaffold with Create React App or Vite and copy these components.
 
-This is a sample/template to help you start. Replace branding, add licensing, and do not impersonate other companies.
-
-See server/README.md and client/README.md for details.
+Set env:
+REACT_APP_API=http://localhost:4000
